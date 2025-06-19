@@ -9,8 +9,7 @@ This project is a responsive Analog and Digital Clock built using HTML, CSS, and
 🧠 JavaScript-powered time update mechanism
 
 ## 🚀 Live Demo
-🔗 [Watch it Live]
-(https://analog-digital-clock-pi.vercel.app/)
+🔗 [Watch it Live](https://analog-digital-clock-pi.vercel.app/)
 
 ## 🛠️ Technologies Used
 HTML5 – For the clock’s structure
